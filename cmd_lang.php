@@ -1,1 +1,1 @@
-1.	<?php eval('ls -a'); ?>
+1.	<?php eval('ls -a;'); ?>
